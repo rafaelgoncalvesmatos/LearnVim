@@ -1,0 +1,14 @@
+
+Formulario de backup
+
+Backup executado as 01:00 segunda.
+
+Backup executado as 01:00 terca.
+
+Backup executado as 01:00 quarta.
+
+Backup executado as 01:00 quinta.
+
+Backup executado as 01:00 sexta.
+
+* Objetivo: completar todo o final com '-feira'.
