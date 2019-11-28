@@ -1,4 +1,4 @@
-# Nomal
+# Modo Nomal
 
 ZZ          - Salva e sai do arquivo
 
