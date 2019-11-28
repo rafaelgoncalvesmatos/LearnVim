@@ -1,0 +1,9 @@
+# Nomal
+
+ZZ          - Salva e sai do arquivo
+
+zz          - Acrescenta linhas vazias no final do arquivo
+zc
+
+w           - Vai para próxima palavra no inicio
+e           - Vai para próxima palavra no final
