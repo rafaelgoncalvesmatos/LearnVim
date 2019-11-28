@@ -1,3 +1,5 @@
+# Modo comando
+
 Comando para gravação e saida
 
 :w          - Salva arquivo
