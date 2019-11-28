@@ -1,0 +1,8 @@
+O - Modo insert linha acima
+o - Modo insert linha abaixo
+
+I - Modo insert começo da linha
+i - Modo insert no cursor
+
+A - Modo insert no final da linha
+a - Modo insert após o cursor
