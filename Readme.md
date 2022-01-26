@@ -1,6 +1,6 @@
 # VIM
 
-Editor de texto poderoso, contem diversas funcionalidades para melhorar o dia a dia do Sysadmin.
+Editor de texto em modo texto, contem diversas funcionalidades para melhorar o dia a dia do Sysadmin nas configurações dos serviços.
 
 ![](./.images/img01.png)
 
