@@ -2,8 +2,6 @@
 
 Editor de texto em modo texto, contem diversas funcionalidades para melhorar o dia a dia do Sysadmin nas configurações dos serviços.
 
-![](./.images/img01.png)
-
 ### Modo Inserção
 
 `O` - Modo insert linha acima.
@@ -67,3 +65,9 @@ Substituição:
 `ctrl+v`          - modo visual block.
 
 `shift+v`         - modo visual.
+
+### Exemplo para apresentação
+
+Segue exemplo para demostração do VIM:
+
+![](./.images/img01.png)
