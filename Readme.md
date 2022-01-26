@@ -16,8 +16,6 @@ Editor de texto em modo texto, contem diversas funcionalidades para melhorar o d
 
 `a` - Modo insert após o cursor.
 
-<br>
-
 ### Modo Normal
 
 `ZZ`          - Salva e sai do arquivo.
@@ -27,8 +25,6 @@ Editor de texto em modo texto, contem diversas funcionalidades para melhorar o d
 `w`           - Vai para próxima palavra no inicio.
 
 `e`           - Vai para próxima palavra no final.
-
-<br>
 
 ### Modo comando
 
@@ -55,8 +51,6 @@ Substituição:
 `:s/bash/sh`  - Substitua bash por sh na linha.
 
 `:%s/bash/sh` - Substitua bash por sh no arquivo inteiro.
-
-<br>
 
 ### Modo Visual
 
