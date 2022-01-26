@@ -2,7 +2,7 @@
 
 Editor de texto em modo texto, contem diversas funcionalidades para melhorar o dia a dia do Sysadmin nas configurações dos serviços.
 
-### Modo Inserção
+# Modo Inserção
 
 `O` - Modo insert linha acima.
 
@@ -16,7 +16,7 @@ Editor de texto em modo texto, contem diversas funcionalidades para melhorar o d
 
 `a` - Modo insert após o cursor.
 
-### Modo Normal
+# Modo Normal
 
 `ZZ`          - Salva e sai do arquivo.
 
@@ -26,7 +26,9 @@ Editor de texto em modo texto, contem diversas funcionalidades para melhorar o d
 
 `e`           - Vai para próxima palavra no final.
 
-### Modo comando
+# Modo comando
+
+### Comuns
 
 `:w`          - Salva arquivo.
 
@@ -40,19 +42,19 @@ Editor de texto em modo texto, contem diversas funcionalidades para melhorar o d
 
 `:x`          - Sai e salva.
 
-Execução:
+### Execução
 
 `:!ls /`      - Lista o conteudo do raiz.
 
 `:r ls /[diretorio]`     - Lista o conteudo do diretorio jogando no arquivo aberto.
 
-Substituição:
+### Substituição
 
 `:s/bash/sh`  - Substitua bash por sh na linha.
 
 `:%s/bash/sh` - Substitua bash por sh no arquivo inteiro.
 
-### Modo Visual
+# Modo Visual
 
 `v`               - Entra no modo visual.
 
@@ -60,13 +62,13 @@ Substituição:
 
 `shift+v`         - modo visual.
 
-### Exercicios
+# Exercicios
 
 Segue alguns exercicios a serem desenvolvidos:
 
 * [Exercicio-01](./vim_exercicio/exercicio01.md)
 
-### Exemplo para apresentação
+# Exemplo para apresentação
 
 Segue exemplo para demostração do VIM:
 
