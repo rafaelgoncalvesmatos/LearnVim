@@ -60,6 +60,12 @@ Substituição:
 
 `shift+v`         - modo visual.
 
+### Exercicios
+
+Segue alguns exercicios a serem desenvolvidos:
+
+* [Exercicio-01](./vim_exercicio/exercicio01.md)
+
 ### Exemplo para apresentação
 
 Segue exemplo para demostração do VIM:

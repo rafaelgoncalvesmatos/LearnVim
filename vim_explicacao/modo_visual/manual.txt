@@ -1,5 +1,0 @@
-# Modo visual
-
-v               - Entra no modo visual
-ctrl+v          - modo visual block
-shift+v         - modo visual 
